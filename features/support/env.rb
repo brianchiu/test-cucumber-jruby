@@ -13,7 +13,7 @@ Capybara.default_driver = :selenium
 # set base url
 Capybara.app_host = 'http://localhost:8080'
 
-# Capybara.default_max_wait_time = 3
+Capybara.default_max_wait_time = 3
 
 #Capybara.javascript_driver = :chrome
 
